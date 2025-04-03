@@ -65,7 +65,7 @@ error_reporting(0);
   <div class="container">
     <div class="section-header text-center">
       <h2>Find the Best <span>CarForYou</span></h2>
-      <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+      <p>There are many variation of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
     </div>
     <div class="row"> 
       
@@ -75,6 +75,8 @@ error_reporting(0);
           <li role="presentation" class="active"><a href="#resentnewcar" role="tab" data-toggle="tab">New Car</a></li>
         </ul>
       </div>
+            <!-- Nav tabs -->
+
       <!-- Recently Listed New Cars -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="resentnewcar">
